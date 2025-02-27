@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.12.6",
+  "startedAt":  "2025-02-27T18:17:52.118091Z",
+  "program":  "C:\\Users\\Sohan\\distance_classification\\script.py",
+  "codePath":  "script.py",
+  "git":  {
+    "remote":  "git@github.com:sohanpanda104/distance_classification.git",
+    "commit":  "f263987bb4c37793c99bf92d55ea00ded5210924"
+  },
+  "email":  "sohanpanda.plaksha@gmail.com",
+  "root":  "C:\\Users\\Sohan\\distance_classification",
+  "host":  "LAPTOP-TD6F517K",
+  "executable":  "C:\\Users\\Sohan\\distance_classification\\venv\\Scripts\\python.exe",
+  "codePathLocal":  "script.py",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "189138989056",
+      "used":  "174552113152"
+    }
+  },
+  "memory":  {
+    "total":  "8216215552"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}
